@@ -1,6 +1,6 @@
 Project: Centrifugal Piezoelectric Harvester (Sub-QZS)
 Author: Jianxiao Zheng
-MATLAB Version used in creating codes: R2024 
+MATLAB Version used in creating codes: R2022a
 1. What it does
 Simulates a ball on a parabolic track under centrifugal instability, impacting
 piezoelectric beams to harvest energy. Includes validation and optimization.
